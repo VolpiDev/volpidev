@@ -22,4 +22,4 @@ Cursando Análise e Desenvolvimento de Sistemas, totalmente apaixonado por tecno
 
 ##
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/volpidev/volpidev/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/volpidev/volpidev/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation](https://github.com/volpidev/volpidev/blob/output/github-contribution-grid-snake.svg)
